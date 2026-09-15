@@ -1,0 +1,141 @@
+{
+  "play_anchor": [
+    0.5,
+    0.6027777777777777
+  ],
+  "play_scale_mult": 0.95,
+  "scene2": {
+    "x_anchor": [
+      0.2796875,
+      0.23055555555555557
+    ],
+    "box_anchor": [
+      0.51171875,
+      0.5333333333333333
+    ],
+    "start_anchor": [
+      0.51484375,
+      0.6638888888888889
+    ],
+    "x_scale_mult": 1.0,
+    "box_scale_mult": 1.0,
+    "start_scale_mult": 1.0
+  },
+  "scene5": {
+    "input_anchor": [
+      0.50078125,
+      0.7916666666666666
+    ],
+    "input_scale_mult": 1.0
+  },
+  "scene8": {
+    "password_anchor": [
+      0.49453125,
+      0.4638888888888889
+    ],
+    "forgot_anchor": [
+      0.49921875,
+      0.6055555555555555
+    ],
+    "password_scale_mult": 1.0,
+    "forgot_scale_mult": 1.0
+  },
+  "scene9": {
+    "input_anchor": [
+      0.5,
+      0.7944444444444444
+    ],
+    "input_scale_mult": 1.0
+  },
+  "scene12": {
+    "laptop_anchor": [
+      0.78203125,
+      0.5430555555555555
+    ],
+    "laptop_scale_mult": 1.0
+  },
+  "scene13": {
+    "screen_anchor": [
+      0.48671875,
+      0.5041666666666667
+    ],
+    "screen_scale_mult": 1.0,
+    "arrow_anchor": [
+      0.49765625,
+      0.23472222222222222
+    ],
+    "arrow_scale_mult": 1.0,
+    "next_anchor": [
+      0.815625,
+      0.9458333333333333
+    ],
+    "next_scale_mult": 1.0,
+    "screen_inset": [
+      300,
+      152,
+      328,
+      212
+    ]
+  },
+  "scene14": {
+    "input_anchor": [
+      0.28203125,
+      0.8527777777777777
+    ],
+    "input_scale_mult": 1.0,
+    "pad": [
+      34,
+      16,
+      34,
+      16
+    ]
+  },
+  "scene17": {
+    "next_anchor": [
+      0.8875,
+      0.9125
+    ],
+    "next_scale_mult": 1.0
+  },
+  "scene18": {
+    "input_anchor": [
+      0.5,
+      0.7958333333333333
+    ],
+    "input_scale_mult": 1.0,
+    "back_anchor": [
+      0.08671875,
+      0.9361111111111111
+    ],
+    "back_scale_mult": 1.0
+  },
+  "scene21": {
+    "input_anchor": [
+      0.5015625,
+      0.7944444444444444
+    ],
+    "input_scale_mult": 1.0
+  },
+  "scene25": {
+    "input_anchor": [
+      0.49921875,
+      0.7958333333333333
+    ],
+    "input_scale_mult": 1.0
+  },
+  "project_anchor": [
+    0.05546875,
+    0.9263888888888889
+  ],
+  "project_scale_mult": 1.0,
+  "game_anchor": [
+    0.125,
+    0.9263888888888889
+  ],
+  "game_scale_mult": 1.0,
+  "ok_anchor": [
+    0.9390625,
+    0.9347222222222222
+  ],
+  "ok_scale_mult": 1.0
+}
